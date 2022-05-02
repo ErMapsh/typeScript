@@ -1,0 +1,1 @@
+cmd for creating react typescript app : (https://create-react-app.dev/docs/adding-typescript/)[https://create-react-app.dev/docs/adding-typescript/]

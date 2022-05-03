@@ -22,8 +22,8 @@ function User() {
         <div>
             <button style={btnStyle} onClick={handleLogin}>Login</button>
             <button style={btnStyle} onClick={handleLogout}>Logout</button>
-            {User && <div>User name is {User?.name}</div>}
-            {User && <div>User email is {User?.email}</div>}
+            <div>User name is {User?.name}</div>
+            <div>User email is {User?.email}</div>
         </div>
     )
 }

@@ -5,8 +5,8 @@ function App() {
     <div className="App">
       <Greet name="ErMapsh"/>
 
-      {/* -----used type for application and interfaces for libraries----  */}
-      {/* u need to pass a props as string that we define in component propstype otherwise we will get an error*/}
+      {/* -----type used for application and interfaces used for libraries----  */}
+      {/* u need to pass a props as string/datatype that we define in component propstype otherwise we will get an error*/}
       {/* <Greet name={10}/> */}
     </div>
   );

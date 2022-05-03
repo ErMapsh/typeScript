@@ -1,0 +1,1 @@
+in  this tutorial i see, different props type that how we can use such as string, number, boolean, object, array.
